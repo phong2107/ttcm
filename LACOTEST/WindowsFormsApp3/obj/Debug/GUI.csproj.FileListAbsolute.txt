@@ -1,0 +1,455 @@
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_DVT.resources
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_PhieuNhap.resources
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_Report.resources
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_ThemKH.resources
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_ThemMoiSanPham.resources
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Main.resources
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_BanHang.resources
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_KhachHang.resources
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_NhaCungCap.resources
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_NhanVien.resources
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_KhoHang.resources
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_PhieuNhap.resources
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\AForge.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\AForge.Video.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\BUS.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\DTO.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\zxing.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\zxing.presentation.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\DAO.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\EnvDTE.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\stdole.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\BUS.pdb
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\AForge.xml
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\AForge.Video.xml
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\zxing.xml
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\zxing.presentation.xml
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\DAO.pdb
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\RdlCompile.cache
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\RdlCompile.compiled
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_KhachHang.resources
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_CTHD.resources
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_DoiMatKhau.resources
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_ThongKe.resources
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_ThongKeHangHoa.resources
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_TrangChu.resources
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_CTHD.resources
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_DoiMatKhau.resources
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_KhachHang.resources
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_PhieuNhap.resources
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_Report.resources
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_ThemKH.resources
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_ThemMoiSanPham.resources
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Main.resources
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_BanHang.resources
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_KhachHang.resources
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_NhaCungCap.resources
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_NhanVien.resources
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_KhoHang.resources
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_PhieuNhap.resources
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_ThongKe.resources
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_ThongKeHangHoa.resources
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_TrangChu.resources
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\AForge.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\AForge.Video.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\BUS.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\DTO.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\EntityFramework.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\Guna.UI2.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\zxing.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\zxing.presentation.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\DAO.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\EnvDTE.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\stdole.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.MSXML.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\BUS.pdb
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\DTO.pdb
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\AForge.xml
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\AForge.Video.xml
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\EntityFramework.xml
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\zxing.xml
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\zxing.presentation.xml
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\DAO.pdb
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\RdlCompile.cache
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\obj\Debug\RdlCompile.compiled
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\AForge.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\AForge.Video.DirectShow.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\AForge.Video.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\BUS.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\DTO.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\EntityFramework.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\Guna.UI2.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\zxing.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\zxing.presentation.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\DAO.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\EnvDTE.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\stdole.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.MSXML.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\BUS.pdb
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\DTO.pdb
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\AForge.xml
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\AForge.Video.xml
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\AForge.Video.DirectShow.xml
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\EntityFramework.xml
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.xml
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\zxing.xml
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\zxing.presentation.xml
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\DAO.pdb
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\GUI.csproj.ResolveComReference.cache
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_CTHD.resources
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_DoiMatKhau.resources
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_KhachHang.resources
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_PhieuNhap.resources
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_Report.resources
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_ThemKH.resources
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_ThemMoiSanPham.resources
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Main.resources
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_BanHang.resources
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_KhachHang.resources
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_NhaCungCap.resources
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_NhanVien.resources
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_KhoHang.resources
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_PhieuNhap.resources
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_ThongKe.resources
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_ThongKeHangHoa.resources
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_TrangChu.resources
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\RdlCompile.cache
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\RdlCompile.compiled
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\GUI.csproj.CopyComplete
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\Cá kho tiêu\vinmart-master\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\AForge.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\AForge.Video.DirectShow.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\AForge.Video.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\BUS.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\DTO.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\EntityFramework.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\Guna.UI2.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\zxing.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\zxing.presentation.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\DAO.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\EnvDTE.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\stdole.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\Microsoft.MSXML.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\BUS.pdb
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\DTO.pdb
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\AForge.xml
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\AForge.Video.xml
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\AForge.Video.DirectShow.xml
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\EntityFramework.xml
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.xml
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\zxing.xml
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\zxing.presentation.xml
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\DAO.pdb
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\GUI.csproj.ResolveComReference.cache
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_CTHD.resources
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_DoiMatKhau.resources
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_KhachHang.resources
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_PhieuNhap.resources
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_Report.resources
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_ThemKH.resources
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form_ThemMoiSanPham.resources
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Main.resources
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_BanHang.resources
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_KhachHang.resources
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_NhaCungCap.resources
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_NhanVien.resources
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_KhoHang.resources
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_PhieuNhap.resources
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_ThongKe.resources
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_ThongKeHangHoa.resources
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UC_TrangChu.resources
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\RdlCompile.cache
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\RdlCompile.compiled
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\GUI.csproj.CopyComplete
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\Cá kho tiêu\LACOTEST\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb

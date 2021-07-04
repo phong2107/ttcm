@@ -1,0 +1,27 @@
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\DAO\bin\Debug\DAO.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\DAO\bin\Debug\DAO.pdb
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\DAO\bin\Debug\DTO.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\DAO\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\DAO\obj\Debug\DAO.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\DAO\obj\Debug\DAO.pdb
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\DAO\bin\Debug\DAO.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\DAO\bin\Debug\DAO.pdb
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\DAO\bin\Debug\DTO.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\DAO\bin\Debug\DTO.pdb
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\DAO\obj\Debug\DAO.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\DAO\obj\Debug\DAO.pdb
+E:\Cá kho tiêu\LACOTEST\DAO\bin\Debug\DAO.dll
+E:\Cá kho tiêu\LACOTEST\DAO\bin\Debug\DAO.pdb
+E:\Cá kho tiêu\LACOTEST\DAO\bin\Debug\DTO.dll
+E:\Cá kho tiêu\LACOTEST\DAO\bin\Debug\DTO.pdb
+E:\Cá kho tiêu\LACOTEST\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+E:\Cá kho tiêu\LACOTEST\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\Cá kho tiêu\LACOTEST\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\Cá kho tiêu\LACOTEST\DAO\obj\Debug\DAO.dll
+E:\Cá kho tiêu\LACOTEST\DAO\obj\Debug\DAO.pdb

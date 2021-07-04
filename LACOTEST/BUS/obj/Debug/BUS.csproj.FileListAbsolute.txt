@@ -1,0 +1,33 @@
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\BUS\bin\Debug\BUS.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\BUS\bin\Debug\BUS.pdb
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\BUS\bin\Debug\DAO.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\BUS\bin\Debug\DTO.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\BUS\bin\Debug\DAO.pdb
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\BUS\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\BUS\obj\Debug\BUS.dll
+C:\Users\ADMIN\Downloads\QuanLyCuaHangThoiTrang-master\BUS\obj\Debug\BUS.pdb
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\BUS\bin\Debug\BUS.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\BUS\bin\Debug\BUS.pdb
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\BUS\bin\Debug\DAO.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\BUS\bin\Debug\DTO.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\BUS\bin\Debug\DAO.pdb
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\BUS\bin\Debug\DTO.pdb
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\BUS\obj\Debug\BUS.dll
+C:\Users\lolml\OneDrive\Máy tính\vinmart-master\BUS\obj\Debug\BUS.pdb
+E:\Cá kho tiêu\LACOTEST\BUS\bin\Debug\BUS.dll
+E:\Cá kho tiêu\LACOTEST\BUS\bin\Debug\BUS.pdb
+E:\Cá kho tiêu\LACOTEST\BUS\bin\Debug\DAO.dll
+E:\Cá kho tiêu\LACOTEST\BUS\bin\Debug\DTO.dll
+E:\Cá kho tiêu\LACOTEST\BUS\bin\Debug\DAO.pdb
+E:\Cá kho tiêu\LACOTEST\BUS\bin\Debug\DTO.pdb
+E:\Cá kho tiêu\LACOTEST\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\Cá kho tiêu\LACOTEST\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Cá kho tiêu\LACOTEST\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Cá kho tiêu\LACOTEST\BUS\obj\Debug\BUS.dll
+E:\Cá kho tiêu\LACOTEST\BUS\obj\Debug\BUS.pdb
